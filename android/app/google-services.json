@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "764601096708",
+    "firebase_url": "https://fruitall-default-rtdb.firebaseio.com",
+    "project_id": "fruitall",
+    "storage_bucket": "fruitall.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764601096708:android:5ec64d951b010f0ec4f351",
+        "android_client_info": {
+          "package_name": "com.fruitall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764601096708-m0tpk52q62km755g4kb1bt0c9sqacvuv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByaNMwte70ISygVavQmwTq17Mhtk3bZbY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764601096708-m0tpk52q62km755g4kb1bt0c9sqacvuv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
